@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+}
+
+.card {
+    width: 33.33%;
+}
+
+img {
+    width: 100%;
+}
+
+p {
+    display: none;
+}
